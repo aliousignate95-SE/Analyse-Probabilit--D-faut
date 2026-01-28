@@ -1,0 +1,13 @@
+# Analyse de la Probabilité de Défaut (Stage Crédit Mutuel)
+
+### Description du projet
+Réalisation d'un modèle de scoring durant mon stage au Crédit Mutuel pour évaluer le risque de non-remboursement des crédits par les clients.
+
+### Méthodologie et Outils
+- *Nettoyage des données :* Utilisation de *Pandas* pour traiter les données bancaires.
+- *Modélisation :* Implémentation d'algorithmes de classification (Régression Logistique / Random Forest).
+- *Évaluation :* Analyse de la performance via la matrice de confusion et le score AUC/ROC.
+- *Langage :* Python.
+
+### Résultats
+Optimisation de la détection des profils à risque et aide à la décision pour l'octroi de nouveaux crédits.
